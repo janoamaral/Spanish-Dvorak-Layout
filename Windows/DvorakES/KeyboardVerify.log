@@ -1,0 +1,7 @@
+    WARNING: € (U+20ac) is already defined more than once on the keyboard (on VK_E, ShiftState 'Ctl+Alt' and VK_5, ShiftState 'Ctl+Alt').
+    WARNING: '<' defined on OEM_102 (Base) but not defined elsewhere. This key may not be present on all keyboards.
+    WARNING: '>' defined on OEM_102 (Shift) but not defined elsewhere. This key may not be present on all keyboards.
+    WARNING: The dead key '`' (U+0060) has no base/combining characters associated with it.
+    WARNING: The dead key '^' (U+005e) has no base/combining characters associated with it.
+    WARNING: The dead key '´' (U+00b4) has no base/combining characters associated with it.
+    WARNING: By convention, the last entry in the dead key table for '¨' (U+00a8) should be a space (to create a spacing version of the dead key).
