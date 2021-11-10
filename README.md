@@ -1,6 +1,6 @@
 # Layouts Dvorak Español
 
-Layouts de teclado simplificado Dvorak para OS X y Windows. En este repositorio se encuentran los archivos fuentes para [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/confirmation.aspx?id=22339) y para [Ukelele](http://software.sil.org/ukelele/).
+Layouts de teclado simplificado Dvorak para OS X y Windows. En este repositorio se encuentran los archivos fuentes para [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134) y para [Ukelele](http://software.sil.org/ukelele/).
 
 ## Instalación.
 
